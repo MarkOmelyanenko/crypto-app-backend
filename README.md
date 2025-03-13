@@ -12,9 +12,9 @@ The frontend for this project is available at: [CryptoApp Frontend](https://gith
 - User authentication (JWT-based login and registration)
 - Cryptocurrency asset management
 - Buy and sell cryptocurrencies
-- Track user portfolio and transaction history
+- Overview user portfolio and transaction history
 - Retrieve portfolio analytics
-- Real-time cryptocurrency price updates using Binance API + WebSockets
+- Real-time cryptocurrency price updates using **Binance API + WebSockets**
 
 ## Technologies Used
 
