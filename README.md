@@ -48,13 +48,3 @@ The frontend for this project is available at: [CryptoApp Frontend](https://gith
 - `GET /api/users/{username}/balance` - Retrieve account balance
 - `GET /api/users/{username}/portfolio/analytics` - Get portfolio analytics
 
-## TODO
-
-- Improve security measures
-- Implement caching for frequently accessed data
-- Enhance API response handling
-
-## Contributors
-
-- **Mark Naliuka** (Developer)
-
